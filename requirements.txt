@@ -1,0 +1,2 @@
+numpy==1.13.3
+watermark==2.0.2
